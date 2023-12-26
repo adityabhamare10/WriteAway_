@@ -18,7 +18,7 @@ WriteAway is a user-friendly and intuitive journal application designed to help 
 
 ## Installation
 1. Clone the WriteAway repository to your local machine:
-2. git cloneMarkup :  [https://github.com/your-username/WriteAway.git](https://github.com/your-username/WriteAway.git")
+2. git clone [https://github.com/your-username/WriteAway.git](https://github.com/your-username/WriteAway.git")
 3. Open the project in Android Studio.
 
 4. Connect the app to your Firebase project by adding your Firebase configuration files (google-services.json) to the app module.
