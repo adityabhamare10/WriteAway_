@@ -9,7 +9,7 @@ WriteAway is a user-friendly and intuitive journal application designed to help 
 
 * Image Insertion: Enhance your journal entries by inserting images directly into your thoughts. Add visual elements to make your memories come to life.
 
-User-Friendly Interface: With a clean and intuitive design, WriteAway makes it easy for users to navigate through the app and access the features effortlessly.
+* User-Friendly Interface: With a clean and intuitive design, WriteAway makes it easy for users to navigate through the app and access the features effortlessly.
 
 # Getting Started
 ## Prerequisites
